@@ -18,7 +18,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.5",
     "@vue/cli-plugin-babel": "^3.4.0",
     "@vue/cli-plugin-eslint": "^3.4.0",
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-prettier": "^3.0.5",
     "auth0-js": "^9.10.0",
     "babel-eslint": "^10.0.1",
