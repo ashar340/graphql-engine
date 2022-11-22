@@ -16,7 +16,7 @@
     "core-js": "^2.6.6",
     "cross-env": "^6.0.3",
     "graphql-tag": "^2.10.1",
-    "nuxt": "^2.11.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
